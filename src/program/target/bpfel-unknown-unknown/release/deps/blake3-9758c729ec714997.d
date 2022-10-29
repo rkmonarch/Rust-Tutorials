@@ -1,0 +1,12 @@
+/mnt/c/users/123/downloads/rust_tutorial/src/program/target/bpfel-unknown-unknown/release/deps/blake3-9758c729ec714997.rmeta: /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/mnt/c/users/123/downloads/rust_tutorial/src/program/target/bpfel-unknown-unknown/release/deps/libblake3-9758c729ec714997.rlib: /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/mnt/c/users/123/downloads/rust_tutorial/src/program/target/bpfel-unknown-unknown/release/deps/blake3-9758c729ec714997.d: /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs
+
+/home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/lib.rs:
+/home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/guts.rs:
+/home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/platform.rs:
+/home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/portable.rs:
+/home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/traits.rs:
+/home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.1/src/join.rs:

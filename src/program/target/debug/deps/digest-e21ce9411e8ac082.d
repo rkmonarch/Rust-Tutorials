@@ -1,0 +1,13 @@
+C:\Users\123\Downloads\rust_tutorial\src\program\target\debug\deps\digest-e21ce9411e8ac082.rmeta: C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\lib.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\digest.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\dyn_digest.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\errors.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\fixed.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\variable.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\xof.rs
+
+C:\Users\123\Downloads\rust_tutorial\src\program\target\debug\deps\libdigest-e21ce9411e8ac082.rlib: C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\lib.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\digest.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\dyn_digest.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\errors.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\fixed.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\variable.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\xof.rs
+
+C:\Users\123\Downloads\rust_tutorial\src\program\target\debug\deps\digest-e21ce9411e8ac082.d: C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\lib.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\digest.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\dyn_digest.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\errors.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\fixed.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\variable.rs C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\xof.rs
+
+C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\lib.rs:
+C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\digest.rs:
+C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\dyn_digest.rs:
+C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\errors.rs:
+C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\fixed.rs:
+C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\variable.rs:
+C:\Users\123\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.9.0\src\xof.rs:

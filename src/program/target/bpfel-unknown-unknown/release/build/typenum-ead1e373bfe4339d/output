@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/c/users/123/downloads/rust_tutorial/src/program/target/bpfel-unknown-unknown/release/build/typenum-ead1e373bfe4339d/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/c/users/123/downloads/rust_tutorial/src/program/target/bpfel-unknown-unknown/release/build/typenum-ead1e373bfe4339d/out/op.rs

@@ -1,0 +1,11 @@
+/mnt/c/users/123/downloads/rust_tutorial/src/program/target/sbf-solana-solana/release/deps/serde_bytes-4508691d894dffb8.rmeta: /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs
+
+/mnt/c/users/123/downloads/rust_tutorial/src/program/target/sbf-solana-solana/release/deps/libserde_bytes-4508691d894dffb8.rlib: /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs
+
+/mnt/c/users/123/downloads/rust_tutorial/src/program/target/sbf-solana-solana/release/deps/serde_bytes-4508691d894dffb8.d: /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs /home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs
+
+/home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs:
+/home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs:
+/home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs:
+/home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs:
+/home/rahulk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs:

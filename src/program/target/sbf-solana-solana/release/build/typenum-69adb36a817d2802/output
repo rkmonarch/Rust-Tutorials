@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/c/users/123/downloads/rust_tutorial/src/program/target/sbf-solana-solana/release/build/typenum-69adb36a817d2802/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/c/users/123/downloads/rust_tutorial/src/program/target/sbf-solana-solana/release/build/typenum-69adb36a817d2802/out/op.rs
